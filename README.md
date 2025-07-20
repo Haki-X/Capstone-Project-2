@@ -78,8 +78,8 @@ Proses analisis data dilakukan melalui beberapa tahapan utama:
 1.  *Clone* repositori ini ke komputer lokal Anda.
 2.  Pastikan semua *library* Python yang dibutuhkan (`pandas`, `matplotlib`, `seaborn`, `geopandas`) sudah terinstal.
 3.  Jalankan sel-sel kode di dalam `Project2_cleaned.ipynb` secara berurutan.
-4.  Buka dashboard Tableau Public interaktif melalui tautan ini: **[MASUKKAN LINK TABLEAU PUBLIC ANDA DI SINI]**
+4.  Buka dashboard Tableau Public interaktif melalui tautan ini: **[https://public.tableau.com/views/Project_2_17529086126170/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
 
 ---
 
-Dianalisis oleh: **[Nama Lengkap Anda]**
+Dianalisis oleh: **[Abdus Salam Baihaqy Achmad]**
